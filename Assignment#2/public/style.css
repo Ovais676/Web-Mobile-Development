@@ -1,0 +1,85 @@
+/* #image{
+    margin-left: 255px;
+    align-content: center;
+}
+
+#refresh{
+    margin-left: 255px;
+    align-content: center;
+} */
+
+form{
+    background-color: mediumpurple;
+}
+label{
+    color: white;
+}
+
+span{
+    color: white;
+}
+
+
+input{
+    margin-left: 60px;
+    
+}
+/* .i{
+    margin-right: 15px;
+} */
+
+/* table{
+    cellpadding: "50px";
+    CELLSPACING: "500px";
+} */
+
+span{
+    margin-left: 5px;
+}
+
+#gender{
+    margin-left: 60px;
+
+}
+
+.g{
+    margin-left: 0px;
+}
+
+.h{
+    margin-left: 10px;
+
+}
+
+.q{
+    margin-left: 8px;
+}
+.p{
+    margin-left: 50px;
+
+}
+
+.y{
+    margin-left: 25px;
+
+}
+
+.c{
+    margin-left: 100px;
+}
+
+#sub{
+    margin-left: 100px;
+}
+#res{
+    margin-right: 100px;
+}
+
+.ger{
+    margin-left: 60px;
+
+}
+
+*{
+    width: auto;
+}
